@@ -67,7 +67,3 @@ EchoGuard is a browser extension designed to help users identify potentially mis
 ## Hackathon Information
 
 This project was developed for the security hackathon focused on the theme of "(In)security" as a solution to help users feel more secure about the information they consume online.
-
-## License
-
-MIT 
